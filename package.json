@@ -1,0 +1,12 @@
+{
+  "name": "new_traveler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass-watch": "sass --watch scss/main.scss scss/css/main.css",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Julián Llorensi",
+  "license": "ISC"
+}

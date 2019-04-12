@@ -1,0 +1,16 @@
+.card {
+    border-radius: 0 ;
+}
+
+.card img {
+    max-height: 200px ;
+}
+
+.card .btn {
+    border-radius: 0% ;
+}
+
+.card .btn:hover {
+    color: #079992 ; background: #ffffff ;
+    transition: 600ms ;     
+}
